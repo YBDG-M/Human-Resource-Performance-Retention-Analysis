@@ -12,24 +12,22 @@ HR Data (Multinational Company) oleh Rohit Grewal
 
 Isi Dataset (Ringkas):
 
-Employee ID
-
-Name
-
-Department
-
-Job Title
-
-Location
-
-Mode of Work
-
-Experience
-
-Performance Rating
-
-Salary
-
-Status (Active / Resigned / Terminated / Retired)
+- Employee ID
+- Name
+- Department
+- Job Title
+- Location
+- Mode of Work
+- Experience
+- Performance Rating
+- Salary
+- Status (Active / Resigned / Terminated / Retired)
 
 Total ± 2.000.000 data karyawan.
+
+Deskripsi Singkat :
+1. Cleaning, handling missing values, type casting, dan outlier detection (pandas & numpy)
+2. Menganalisis pola gaji, distribusi departemen, job title, performa, serta indikasi turnover dari dataset HR multinasional.
+3. Exploratory data analysis (EDA) salary distribution, department comparison, hingga employee segmentation.(matplotlib & seaborn)
+4. Mengidentifikasi ketimpangan kompensasi, hubungan antar-variabel, serta anomali organisasi melalui analisis statistik dan korelasi.
+5. Menghasilkan insight ringkas untuk HR terkait kompensasi, retensi, dan perencanaan tenaga kerja berbasis data.
